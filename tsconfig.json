@@ -1,5 +1,10 @@
 {
   "compilerOptions": {
+    "paths": {
+      "million/react": [
+        "/Users/aidenybai/Projects/aidenybai/million/packages/react/index"
+      ]
+    },
     "target": "ES2020",
     "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
